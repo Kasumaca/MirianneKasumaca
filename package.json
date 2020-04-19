@@ -1,0 +1,25 @@
+{
+
+    "name": "mirianne",
+  
+    "description": "Maid of Kasumaca",
+  
+    "version": "6.9.6",
+  
+    "main": "mirianne.js",
+  
+    "scripts": {
+  
+      "start": "node mirianne.js"
+  
+    },
+  
+    "dependencies": {
+  
+      "discord.js": "11.1.0",
+  
+      "request": "2.81.0"
+  
+    }
+  
+  }
